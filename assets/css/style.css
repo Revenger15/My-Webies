@@ -38,7 +38,6 @@ h6 {
   height: 40px;
   border-radius: 50px;
   transition: all 0.4s;
-  /* background-image: url("assets/img/favicon.png"); */
 }
 
 .back-to-top i {
@@ -1169,23 +1168,9 @@ section {
   font-size: 13px;
 }
 
-/* Back to top Button */
-/* .fcon img:nth-child(2){
-  display: none;
-}
-
-.fcon i:nth-child(-1){
-  display: none;
-}
-
-.fcon:hover img:nth-child(-1) {
-  display: none;
-}
-
-.fcon:hover i:nth-child(2) {
-  display: block;
-} */
-
+/*--------------------------------------------------------------
+# Back to top Button
+--------------------------------------------------------------*/
 #fvcn {
   opacity: 1;
   transition: all 0.5s ease-in-out;
@@ -1195,11 +1180,3 @@ section {
   opacity: 0;
   transition: all 0.5s ease-in-out;
 }
-/*
-.fcon img:hover {
-  opacity: 0;
-}
-
-.fcon .bi:hover {
-  opacity: 1;
-} */

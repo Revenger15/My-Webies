@@ -4,10 +4,7 @@ Normal Text - - - #ededeb
 Name Text - - - - #a0b5c4
 Title - - - - - - #ffdb9d
 Icon Highlight- - #7F6951
-Selection - - - - 
-BG Icon - - - - - 
 Outline Icon- - - #bac0c5
 Border- - - - - - #3f4142
-Border Shadow - - rgba(110, 123, 131, 0.02)
-Icon- - - - - - - 
+Border Shadow - - rgba(110, 123, 131, 0.02) 
 BGTextBox - - - - rgb(36, 36, 36)
