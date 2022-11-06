@@ -1186,16 +1186,16 @@ section {
   display: block;
 } */
 
-/* .fcon img {
+#fvcn {
   opacity: 1;
   transition: all 0.5s ease-in-out;
 }
 
-.fcon .bi {
+#upcn {
   opacity: 0;
   transition: all 0.5s ease-in-out;
 }
-
+/*
 .fcon img:hover {
   opacity: 0;
 }
